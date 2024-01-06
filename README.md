@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-None-brightgreen.svg)](https://opensource.org/licenses/None)
 
+ A node js command-line application that takes user input to generate a logo.
+
 ## Description
 - A node js command-line application that takes user input to generate a logo.
 - I want to generate a simple logo for my projects.
