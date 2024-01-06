@@ -41,7 +41,8 @@ This project is licensed under the [None](https://opensource.org/licenses/None) 
 - [npm js - inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4)
 
 ## Deployment
-[GitHub Repository]()
+- [GitHub Repository](https://github.com/Develepor-Dan/CodeArt-Logo)
+- [Walkthrough Video](https://www.youtube.com/watch?v=fPjUnNh__zE)
 
 ## Questions
 For questions about contribution or about the project, please contact [Daniel Zavala](mailto:zavaladaniel151@gmail.com).
