@@ -14,14 +14,14 @@
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Deployment](#deployment)
 - [Questions](#questions)
 
 ## Installation
 When first starting up the application, you can first start the application typing ```npm install``` and then ```npm start```. 
 
 ## Usage
-![demo of the project](./examples/square.svg)
+![demo of the project](./examples/square.svg) ![demo of the project](./examples/circle.svg) ![demo of the project](./examples/triangle.svg)
 
 After using the ```npm start``` command, you will be prompted different questions to generate your logo. 
 
