@@ -21,7 +21,8 @@
 When first starting up the application, you can first start the application typing ```npm install``` and then ```npm start```. 
 
 ## Usage
-![demo of the project]()
+![demo of the project](./examples/square.svg)
+
 After using the ```npm start``` command, you will be prompted different questions to generate your logo. 
 
 ## License
@@ -29,13 +30,15 @@ After using the ```npm start``` command, you will be prompted different question
 This project is licensed under the [None](https://opensource.org/licenses/None) License - see the [LICENSE](LICENSE) file for details.
 
 ## Feature(s)
-- you can enter up to three characters as text for the logo - for the text color and shape color, you can enter a color keyword or a hexdecimal number - A SVG file is then created name "logo.svg" 
-
-## Tests
-undefined
+- you can enter up to three characters as text for the logo 
+- for the text color and shape color, you can enter a color keyword or a hexdecimal number 
+- A SVG file is then created name "logo.svg" 
 
 ## Credits
-- [SVG Extension](https://marketplace.visualstudio.com/items?itemName=jock.svg) - [MDN Web Docs - SVG Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial) - [npm js - jest](https://www.npmjs.com/package/jest?activeTab=readme) - [npm js - inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4)
+- [SVG Extension](https://marketplace.visualstudio.com/items?itemName=jock.svg) 
+- [MDN Web Docs - SVG Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial) 
+- [npm js - jest](https://www.npmjs.com/package/jest?activeTab=readme) 
+- [npm js - inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4)
 
 ## Deployment
 [GitHub Repository]()
